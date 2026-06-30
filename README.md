@@ -1,3 +1,18 @@
+╔══════════════════════════════════════════════════════════════╗
+
+                      H U S S I E N
+
+            Computer Engineering Graduate
+         Software Engineer • C++ • C# • SQL • AI
+
+          Building software that solves real-world problems.
+
+╚══════════════════════════════════════════════════════════════╝
+
+
+
+
+
 ## 🌱 Currently Learning
 
 - 🧩 Solving programming and algorithmic problems

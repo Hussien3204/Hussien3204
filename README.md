@@ -54,7 +54,7 @@
 <h1 align="center">Hi 👋, I'm Hussien</h1>
 
 <h3 align="center">
-Computer Engineering Graduate | Software Engineer in Progress 🚀
+Computer Engineering Graduate |Fresh Programmer | C++ • C# • SQL • AI 🚀
 </h3>
 
 <p align="center">

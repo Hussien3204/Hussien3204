@@ -1,16 +1,34 @@
-## Hi there 👋
+## 🌱 Currently Learning
 
-<!--
-**Hussien3204/Hussien3204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧩 Solving programming and algorithmic problems
+- 🗄️ Database Design & SQL
+- 🌲 Data Structures & Algorithms
+- 🏛️ Software Engineering Principles
+- 🤖 Artificial Intelligence Fundamentals
+- 📚 Continuously improving problem-solving skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 C++
+- ⚙️ C#
+- 🗄️ SQL
+- 🎨 Qt Framework
+- 🐍 Python
+- 🌿 Git & GitHub
+- 📦 Object-Oriented Programming (OOP)
+
+---
+
+## 🎯 Current Focus
+
+✔ Solving programming challenges
+
+✔ Building real-world software projects
+
+✔ Mastering databases and data structures
+
+✔ Improving software design skills
+
+✔ Exploring AI technologies

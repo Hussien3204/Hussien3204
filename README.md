@@ -1,121 +1,107 @@
-╔══════════════════════════════════════════════════════════════╗
-
-                      H U S S I E N
-
-            Computer Engineering Graduate
-            
-       Fresh Programmer | C++ • C# • SQL • AI
-
-          Building software that solves real-world problems.
-
-╚══════════════════════════════════════════════════════════════╝
-
-
-
-
-
-## 🌱 Currently Learning
-
-- 🧩 Solving programming and algorithmic problems
-- 🗄️ Database Design & SQL
-- 🌲 Data Structures & Algorithms
-- 🏛️ Software Engineering Principles
-- 🤖 Artificial Intelligence Fundamentals
-- 📚 Continuously improving problem-solving skills
-
----
-
-## 🛠️ Tech Stack
-
-- 💻 C++
-- ⚙️ C#
-- 🗄️ SQL
-- 🎨 Qt Framework
-- 🐍 Python
-- 🌿 Git & GitHub
-- 📦 Object-Oriented Programming (OOP)
-
----
-
-## 🎯 Current Focus
-
-✔ Solving programming challenges
-
-✔ Building real-world software projects
-
-✔ Mastering databases and data structures
-
-✔ Improving software design skills
-
-✔ Exploring AI technologies
-
-
-
 <h1 align="center">Hi 👋, I'm Hussien</h1>
 
 <h3 align="center">
-Computer Engineering Graduate |Fresh Programmer | C++ • C# • SQL • AI 🚀
+🎓 Computer Engineering Graduate
 </h3>
 
+<h4 align="center">
+💻 Fresh Programmer | C++ • C# • SQL • AI Enthusiast
+</h4>
+
 <p align="center">
-Passionate about building real-world software, solving programming problems, and continuously improving my skills.
+Passionate about building real-world software, solving programming challenges, and continuously growing as a software developer.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Engineering Graduate
-- 💻 Passionate about Software Engineering
-- 🧠 Love solving programming challenges
-- 🚀 Building practical desktop applications
-- 📚 Always learning and improving
+I'm a Computer Engineering graduate who enjoys transforming ideas into practical software solutions.
+
+I'm currently focusing on strengthening my programming fundamentals, improving problem-solving skills, and developing desktop applications while continuously expanding my knowledge of software engineering and artificial intelligence.
 
 ---
 
-## 💼 Featured Projects
+# 🚀 Projects In Progress
 
 ### 🍽️ Restaurant Management System
-A desktop application for managing restaurants, orders, customers, inventory, and billing.
 
-### 🏥 Hospital Management System
-A management system for patients, doctors, appointments, and medical records.
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
-### 🎨 StringArtPro
-A C++/Qt desktop application that converts images into String Art.
+A desktop application designed to streamline restaurant operations.
+
+**Current Features**
+
+- Customer Management
+- Order Management
+- Billing System
+- Inventory Management
 
 ---
 
-## 🌱 Currently Learning
+### 🏥 Hospital Management System
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
+A desktop application for managing healthcare operations.
+
+**Current Features**
+
+- Patient Records
+- Appointment Scheduling
+- Doctor Management
+- Medical Reports
+
+---
+
+### 🎨 StringArtPro
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
+A professional desktop application built with **C++** and **Qt** that converts images into beautiful String Art.
+
+**Current Features**
+
+- Image Processing
+- Pin Generation
+- String Rendering
+- Export System
+
+---
+
+# 🌱 Currently Learning
 
 - 🧩 Solving Programming Problems
 - 🗄️ Database Design
 - 🌲 Data Structures & Algorithms
 - 🏛️ Software Engineering Principles
 - 🤖 Artificial Intelligence
-- 📈 Writing clean and maintainable code
+- ✨ Writing Clean & Maintainable Code
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,git,github,sqlite,visualstudio,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,sqlite,python,git,github,visualstudio,vscode"/>
+
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Goals
 
-- ✅ Building real-world software projects
-- ✅ Improving problem-solving skills
-- ✅ Mastering databases
-- ✅ Learning advanced software engineering
-- ✅ Exploring AI technologies
+- 🚀 Complete my ongoing software projects
+- 💡 Improve problem-solving and algorithmic thinking
+- 📚 Master Database Design & SQL
+- 🏗️ Learn advanced Software Engineering concepts
+- 🤖 Explore Artificial Intelligence and Machine Learning
+- 🌍 Contribute to Open Source projects
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -127,7 +113,7 @@ A C++/Qt desktop application that converts images into String Art.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -137,26 +123,26 @@ A C++/Qt desktop application that converts images into String Art.
 
 ---
 
-## 🚀 Motto
+# 💡 Personal Motto
 
-> **"Every day I write code, I become a better engineer."**
+> **"Every line of code I write is another step toward becoming a better software developer."**
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
 <p align="left">
 
 <a href="mailto:hussiensulaiman123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hussiensulaiman">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Hussien3204">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -168,3 +154,13 @@ A C++/Qt desktop application that converts images into String Art.
 💼 **LinkedIn:** https://www.linkedin.com/in/hussiensulaiman
 
 💻 **GitHub:** https://github.com/Hussien3204
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning, Building, Improving — One Project at a Time."* 🚀
+
+</div>

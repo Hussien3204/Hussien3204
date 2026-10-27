@@ -5,7 +5,7 @@
 </h3>
 
 <h4 align="center">
-💻 Fresh Programmer | C++ • C# • SQL • AI Enthusiast
+💻 Fresh Programmer | C++ • C# • SQL 
 </h4>
 
 <p align="center">
